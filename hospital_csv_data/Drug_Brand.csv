@@ -1,0 +1,407 @@
+Drug_Code,Brand_Name
+1001,"Rice, Reynolds and Baker Pharm"
+1001,"Kennedy, Kramer and Whitaker Pharm"
+1002,"Hill, Clark and Henry Pharm"
+1003,Eaton-Schwartz Pharm
+1004,Lee-Juarez Pharm
+1005,Anderson-Hines Pharm
+1005,Goodman-Chambers Pharm
+1005,Gonzales PLC Pharm
+1006,Lawrence PLC Pharm
+1006,Clayton and Sons Pharm
+1007,Morton-Turner Pharm
+1007,Hayes PLC Pharm
+1008,Sanders-Parker Pharm
+1009,Martinez-Villegas Pharm
+1009,Henderson-Robertson Pharm
+1010,Hayes-Hopkins Pharm
+1011,Wright Group Pharm
+1011,Dyer-Smith Pharm
+1012,Smith Inc Pharm
+1013,"Liu, Martinez and Leblanc Pharm"
+1014,"Stevens, Clark and Fisher Pharm"
+1014,Simmons-Hernandez Pharm
+1015,"Long, Snow and Velazquez Pharm"
+1015,"Sullivan, Gonzales and Taylor Pharm"
+1015,"Freeman, Davenport and Mcgrath Pharm"
+1016,"Rice, Byrd and York Pharm"
+1017,"Acosta, Higgins and Anderson Pharm"
+1017,Schaefer Ltd Pharm
+1017,"Lane, Stone and Ochoa Pharm"
+1018,Schneider LLC Pharm
+1018,Beltran LLC Pharm
+1018,Poole-Hardin Pharm
+1019,Bryant-Owens Pharm
+1020,"Rollins, Chang and Clayton Pharm"
+1021,Gomez-Nichols Pharm
+1021,"Bartlett, Gould and Sims Pharm"
+1022,Lambert-Larsen Pharm
+1023,Molina-Glass Pharm
+1023,Jones Inc Pharm
+1024,Martin Inc Pharm
+1025,"Washington, Martin and Campbell Pharm"
+1026,Moreno Inc Pharm
+1026,Watts-Thomas Pharm
+1027,Smith-Burns Pharm
+1028,Mitchell PLC Pharm
+1029,Clark LLC Pharm
+1029,"Fleming, Smith and Gonzales Pharm"
+1029,"Lindsey, Wilson and Smith Pharm"
+1030,Young-Rose Pharm
+1030,Sullivan-Rojas Pharm
+1030,"Ross, White and Baker Pharm"
+1031,"Jensen, Tucker and James Pharm"
+1031,Williams-Ruiz Pharm
+1031,Francis-Blackburn Pharm
+1032,Rice LLC Pharm
+1032,Duarte-Humphrey Pharm
+1032,Rice Group Pharm
+1033,"Nguyen, Ellis and Johnson Pharm"
+1033,"Wong, Walker and Hudson Pharm"
+1033,"Walter, Brown and Lopez Pharm"
+1034,"Young, Henderson and Brown Pharm"
+1035,Powell and Sons Pharm
+1036,"Byrd, Carter and Newton Pharm"
+1037,Stanley-Adams Pharm
+1037,Armstrong PLC Pharm
+1037,Arroyo Ltd Pharm
+1038,Cooper Ltd Pharm
+1038,English-Cox Pharm
+1038,Lynch and Sons Pharm
+1039,Lee-Brown Pharm
+1039,Gordon LLC Pharm
+1039,Paul-Hanson Pharm
+1040,Hernandez Group Pharm
+1041,Webster LLC Pharm
+1042,Caldwell PLC Pharm
+1042,Sanchez and Sons Pharm
+1042,Wilson PLC Pharm
+1043,Martinez-Hogan Pharm
+1044,"Brown, Powell and Hess Pharm"
+1045,"Cannon, Wall and Brooks Pharm"
+1046,Allen-Johnson Pharm
+1046,"Meyer, Taylor and Martinez Pharm"
+1046,Medina-Gardner Pharm
+1047,Woods PLC Pharm
+1047,Bennett-Myers Pharm
+1047,Park Group Pharm
+1048,"Flores, Cervantes and Brooks Pharm"
+1048,Williams-Gomez Pharm
+1048,Murphy-Adams Pharm
+1049,Harrington-Wade Pharm
+1050,Woods-Ford Pharm
+1051,Welch-Rodriguez Pharm
+1052,"Goodwin, Price and Hartman Pharm"
+1053,"Weeks, Lara and Martinez Pharm"
+1053,"Boyd, Nichols and Hodge Pharm"
+1054,Munoz PLC Pharm
+1055,Sosa PLC Pharm
+1056,"Lowe, Webster and Lee Pharm"
+1056,Bradford-Blackwell Pharm
+1056,Greer-Thornton Pharm
+1057,Lee and Sons Pharm
+1057,Skinner-Thompson Pharm
+1057,Burns Group Pharm
+1058,Foster-Ellison Pharm
+1058,Holder-Oneal Pharm
+1059,Choi-Maldonado Pharm
+1059,"Anderson, Le and Carroll Pharm"
+1059,Francis-Gregory Pharm
+1060,Anderson and Sons Pharm
+1060,"Aguilar, Scott and Day Pharm"
+1060,Cox-Butler Pharm
+1061,Day-Hawkins Pharm
+1061,"Johnson, Parker and Elliott Pharm"
+1061,"Collins, Russell and Cook Pharm"
+1062,"Ho, Berry and Brown Pharm"
+1063,Gray PLC Pharm
+1064,Garcia-Flores Pharm
+1064,"Gilmore, Ramos and Smith Pharm"
+1064,"Schultz, Adams and Grant Pharm"
+1065,Smith PLC Pharm
+1065,"Mathis, Buchanan and Kemp Pharm"
+1065,Martin-Bailey Pharm
+1066,Page Ltd Pharm
+1067,"Hicks, Burton and Miller Pharm"
+1067,Diaz LLC Pharm
+1067,Ryan-Morgan Pharm
+1068,Francis-Collins Pharm
+1068,Diaz and Sons Pharm
+1069,Harris Ltd Pharm
+1069,Williams-Christensen Pharm
+1069,Moreno PLC Pharm
+1070,"Smith, Smith and Pugh Pharm"
+1070,"Taylor, Robinson and Jones Pharm"
+1071,Elliott and Sons Pharm
+1071,Morgan Group Pharm
+1072,Moore-Schroeder Pharm
+1072,Jones LLC Pharm
+1072,Martinez-Meyer Pharm
+1073,Miller-Taylor Pharm
+1073,"Rhodes, Weber and Porter Pharm"
+1073,Shaw-Smith Pharm
+1074,Marshall-Ali Pharm
+1075,Jones-Lawrence Pharm
+1075,Mccarty Ltd Pharm
+1076,Norris-Case Pharm
+1076,Proctor-Tran Pharm
+1077,Hubbard-Bryant Pharm
+1078,Bass and Sons Pharm
+1078,Baker-Lowe Pharm
+1079,Smith-Hays Pharm
+1079,May Ltd Pharm
+1079,Joseph Inc Pharm
+1080,"Knapp, Garza and Stevens Pharm"
+1080,"Lewis, Moreno and Jones Pharm"
+1081,Reed-Delacruz Pharm
+1082,Donovan-Martin Pharm
+1083,"Perez, Weeks and Martinez Pharm"
+1083,Hoover Group Pharm
+1083,"Brooks, Maxwell and Yang Pharm"
+1084,"Davis, Pacheco and Rodriguez Pharm"
+1085,Nelson PLC Pharm
+1086,Thompson Ltd Pharm
+1086,Bryant PLC Pharm
+1086,Newman PLC Pharm
+1087,Marshall-Colon Pharm
+1087,"Underwood, Stokes and Lewis Pharm"
+1087,Rodriguez-Lewis Pharm
+1088,"Galloway, Freeman and Little Pharm"
+1088,Livingston Group Pharm
+1089,"Torres, Bell and Weiss Pharm"
+1090,"Hensley, Williams and Kelly Pharm"
+1090,Kramer-Powers Pharm
+1090,"Henry, Davis and Byrd Pharm"
+1091,Gallagher PLC Pharm
+1091,Mitchell Group Pharm
+1092,Cruz-Moyer Pharm
+1092,Wood-Cameron Pharm
+1093,"Jackson, Martin and Lewis Pharm"
+1094,"Kramer, Hogan and Bradley Pharm"
+1094,"Davies, Hill and Mitchell Pharm"
+1094,Rodriguez-Palmer Pharm
+1095,Lewis-Jefferson Pharm
+1096,Jensen Group Pharm
+1096,Gibson-Bradley Pharm
+1097,Johnston Group Pharm
+1097,Singh-Stewart Pharm
+1098,Baker LLC Pharm
+1098,"Ramirez, Huber and Griffin Pharm"
+1098,Garcia PLC Pharm
+1099,Holmes Inc Pharm
+1099,Barrett Ltd Pharm
+1099,Petersen-Horn Pharm
+1100,Chaney-Davis Pharm
+1100,"Todd, Bryant and Marshall Pharm"
+1101,Neal-James Pharm
+1101,"Kelly, Cantrell and Harrell Pharm"
+1102,"Maynard, Herrera and Rodriguez Pharm"
+1102,Martin and Sons Pharm
+1102,Gill and Sons Pharm
+1103,"Greer, Rangel and Jones Pharm"
+1104,"Santiago, Guerrero and Morales Pharm"
+1105,Wade-Watkins Pharm
+1105,Stevenson-Moore Pharm
+1105,Harmon-Krueger Pharm
+1106,Bishop Group Pharm
+1107,Baker Ltd Pharm
+1107,"Jackson, Hill and Sandoval Pharm"
+1107,"Kelly, Stewart and Miles Pharm"
+1108,"Wolf, Lopez and Campbell Pharm"
+1108,Romero-Le Pharm
+1108,"White, Torres and Ryan Pharm"
+1109,"Harris, Jackson and Douglas Pharm"
+1110,"Blevins, Reid and Cook Pharm"
+1110,"Delgado, Ellison and Watts Pharm"
+1111,Warner LLC Pharm
+1111,Knapp Inc Pharm
+1112,Benson-King Pharm
+1113,Smith-Lang Pharm
+1113,"Smith, Gray and Reyes Pharm"
+1114,Stokes PLC Pharm
+1114,Williams LLC Pharm
+1115,"Saunders, Campbell and Ramos Pharm"
+1115,Velasquez-Singh Pharm
+1115,Miller-Flores Pharm
+1116,"Ponce, Todd and Wilcox Pharm"
+1116,Fleming LLC Pharm
+1116,Berg LLC Pharm
+1117,French-Palmer Pharm
+1117,"Carney, Murray and Ramirez Pharm"
+1118,Smith PLC Pharm
+1118,Padilla-Johnson Pharm
+1118,Randolph LLC Pharm
+1119,"Flowers, Fuller and Morgan Pharm"
+1120,Moore Group Pharm
+1120,Santiago-Bryant Pharm
+1121,Daniels and Sons Pharm
+1122,Nelson-Morton Pharm
+1122,"Salas, Miller and Obrien Pharm"
+1122,Henry-Skinner Pharm
+1123,Chase PLC Pharm
+1123,Haley Group Pharm
+1123,"Lambert, Thompson and Hoffman Pharm"
+1124,Lee-Miller Pharm
+1124,"Chase, Kaufman and Rowe Pharm"
+1125,"Norris, Mcintosh and Garcia Pharm"
+1126,Roberts PLC Pharm
+1127,Myers-Adams Pharm
+1127,"Richardson, Edwards and Boyd Pharm"
+1128,Gilbert-Kent Pharm
+1129,Cohen-Terry Pharm
+1130,Morales Inc Pharm
+1130,Gibson-Andersen Pharm
+1130,Franklin Inc Pharm
+1131,Cox LLC Pharm
+1131,Castillo Ltd Pharm
+1132,Foster Inc Pharm
+1132,"Mcguire, Mueller and Moore Pharm"
+1133,Stewart Group Pharm
+1133,Bishop-Wilkins Pharm
+1134,"Carroll, Salas and Ortiz Pharm"
+1134,"Patel, Frey and Travis Pharm"
+1134,"Clements, Wright and Gardner Pharm"
+1135,"Schmitt, Martin and Smith Pharm"
+1136,Walker Ltd Pharm
+1136,Evans-Munoz Pharm
+1137,Ferguson Inc Pharm
+1138,"Davis, Reyes and Marshall Pharm"
+1138,Wilson and Sons Pharm
+1139,Walker and Sons Pharm
+1139,Webb-Atkins Pharm
+1139,Rodriguez-Snyder Pharm
+1140,"English, Wagner and Oneill Pharm"
+1141,"Sanchez, Ortiz and Murphy Pharm"
+1141,Hamilton Ltd Pharm
+1142,"Deleon, Odonnell and Mclaughlin Pharm"
+1142,Serrano-Swanson Pharm
+1142,"Lambert, Garza and Wagner Pharm"
+1143,Henry LLC Pharm
+1143,Collins Ltd Pharm
+1143,"White, Nicholson and Sullivan Pharm"
+1144,Barnett Group Pharm
+1144,Smith Group Pharm
+1145,Blevins PLC Pharm
+1145,Porter-Kramer Pharm
+1145,Sparks PLC Pharm
+1146,"Williamson, Nelson and Miller Pharm"
+1146,Anderson-Day Pharm
+1146,Gardner-Kline Pharm
+1147,Ross-Carr Pharm
+1147,Zamora Group Pharm
+1147,Hughes Group Pharm
+1148,Martinez-Burton Pharm
+1148,"Schmidt, Bowers and West Pharm"
+1149,Meyer-Wu Pharm
+1150,"Lloyd, Harris and Johnson Pharm"
+1151,Thomas-Golden Pharm
+1152,Palmer-Wilson Pharm
+1152,Cunningham and Sons Pharm
+1153,"Williams, Ford and Meza Pharm"
+1153,Harmon-Patel Pharm
+1154,"Aguirre, Bass and Taylor Pharm"
+1154,"Jackson, Sparks and Holt Pharm"
+1154,"Hanna, Jones and Mullins Pharm"
+1155,"Nguyen, Robinson and Guerra Pharm"
+1156,"Smith, Gonzales and Cardenas Pharm"
+1156,"Mann, Rios and Black Pharm"
+1156,Perkins-Flores Pharm
+1157,Myers-Wagner Pharm
+1157,Fields Group Pharm
+1158,Mills PLC Pharm
+1158,"Franklin, Richardson and Craig Pharm"
+1159,"Richards, Roberts and Maldonado Pharm"
+1160,Barnes-Knapp Pharm
+1160,Villegas Group Pharm
+1161,Carter Group Pharm
+1161,Bautista and Sons Pharm
+1161,Flynn LLC Pharm
+1162,Adams-Ramirez Pharm
+1162,Church-Flores Pharm
+1163,Duke Group Pharm
+1163,Brown-Arellano Pharm
+1163,"Lawson, Jefferson and Carpenter Pharm"
+1164,Baldwin Group Pharm
+1164,Castillo-Levine Pharm
+1164,Bailey-Melton Pharm
+1165,Garcia Ltd Pharm
+1165,"Rodgers, Espinoza and Fitzgerald Pharm"
+1165,"Stewart, Cunningham and Smith Pharm"
+1166,Shaffer PLC Pharm
+1166,Boyd and Sons Pharm
+1166,"Williams, Burnett and Smith Pharm"
+1167,Schroeder PLC Pharm
+1167,Singh LLC Pharm
+1168,Harvey-Wallace Pharm
+1168,Hall-Watson Pharm
+1168,"Rodriguez, Rojas and Vang Pharm"
+1169,Warren-Russell Pharm
+1169,Ewing-Hall Pharm
+1169,Kent LLC Pharm
+1170,Morgan Inc Pharm
+1170,Glover LLC Pharm
+1170,Acosta Inc Pharm
+1171,Howard-Watts Pharm
+1171,Kane PLC Pharm
+1172,"Pena, King and Stanley Pharm"
+1172,Werner-Soto Pharm
+1172,Anderson-Robinson Pharm
+1173,Jenkins Inc Pharm
+1173,Harris-Huynh Pharm
+1173,Hendrix Inc Pharm
+1174,Reilly Ltd Pharm
+1174,Mann-Santiago Pharm
+1175,"Edwards, Heath and Peterson Pharm"
+1175,Kelly Group Pharm
+1176,"Jackson, Randall and Nichols Pharm"
+1176,Cochran-Allison Pharm
+1176,"Myers, Wilson and Dunn Pharm"
+1177,Conrad-Turner Pharm
+1177,Villa-Dorsey Pharm
+1178,Cunningham and Sons Pharm
+1178,"Alvarez, Alvarez and Burton Pharm"
+1178,Schmitt Ltd Pharm
+1179,Dean Inc Pharm
+1179,Massey-Landry Pharm
+1180,Boyer and Sons Pharm
+1181,Winters-Lane Pharm
+1181,Burgess-Brooks Pharm
+1182,"Le, Martinez and Washington Pharm"
+1182,Hendricks and Sons Pharm
+1183,"Bailey, Jones and Cook Pharm"
+1183,Castaneda-Gilmore Pharm
+1183,Kelly Inc Pharm
+1184,Bonilla Inc Pharm
+1184,Moore Group Pharm
+1185,Coleman Inc Pharm
+1186,Hughes-Ramos Pharm
+1186,Ortiz-Sosa Pharm
+1187,Nunez-Rice Pharm
+1188,Johnson Group Pharm
+1189,"Hanson, Lee and Hernandez Pharm"
+1189,Esparza-Ramirez Pharm
+1190,"Rocha, Perez and Nelson Pharm"
+1190,Mills-Nolan Pharm
+1191,Kelley LLC Pharm
+1191,Booth LLC Pharm
+1191,Morris-Davis Pharm
+1192,Deleon Group Pharm
+1192,Hawkins-Clark Pharm
+1192,"Webster, Garcia and Kelly Pharm"
+1193,"Thomas, Peterson and Olsen Pharm"
+1193,Harris Inc Pharm
+1193,"Fernandez, Charles and Benson Pharm"
+1194,"Nunez, Hatfield and Smith Pharm"
+1195,"Perez, Hopkins and Butler Pharm"
+1195,"Lawrence, Frey and Smith Pharm"
+1195,Padilla-Estrada Pharm
+1196,Rubio Group Pharm
+1196,White and Sons Pharm
+1197,Patterson-Newton Pharm
+1197,Rich-Barajas Pharm
+1197,Fox Inc Pharm
+1198,Franco Inc Pharm
+1198,Potter-Rodriguez Pharm
+1199,Anderson-Chavez Pharm
+1199,Clark Group Pharm
+1200,Macias Group Pharm
